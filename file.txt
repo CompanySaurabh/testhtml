@@ -1,0 +1,3 @@
+The HTML head element contains meta data.[EMAIL]
+
+Meta data is data about the HTML document.[MOBILE]
