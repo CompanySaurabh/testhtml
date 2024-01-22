@@ -1,6 +1,6 @@
 <div><center> <a href="[VIEWMESSAGEURL]" style="color: #000000; font-family: 'Gill Sans', 'Gill Sans MT',
 
-nt-size: 12px;letter-spac 9fb0515c242ba65a7af4dad8a2a033f7  weight: 600; font-size: 12px;letter-spac
+nt-size: 12px;letter-spac  weight: 600; font-size: 12px;letter-spac
 
 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif'; font-weight: 600; font-size: 12px;letter-spacing: 1px;" >ONLINE VERSION</a> | <a href="[UNSUBSCRIBEURL]" style="color: #000000; font-family: 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif'; font-weight: 600;font-size: 12px; letter-spacing: 1px;">UNSUBSCRIBE (F)</a></center></div>
 
