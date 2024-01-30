@@ -1,0 +1,5 @@
+[
+    {"client_id": "123456", "countperday": 5},
+    {"client_id": "789012", "countperday": 10},
+    {"client_id": "345678", "countperday": 8}
+]
