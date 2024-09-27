@@ -1,13 +1,61 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>My First HTML</title>
-  <meta charset="UTF-8">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="format-detection" content="telephone=no">
+    <title>Email Template</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f8f8;
+        }
+        .email-container {
+            width: 100%;
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #ffffff;
+            padding: 20px;
+            border: 1px solid #e0e0e0;
+        }
+        .header {
+            width: 100%;
+            text-align: center;
+            padding: 10px 0;
+        }
+        .header table {
+            margin: 0 auto;
+        }
+        .message {
+            padding: 20px;
+        }
+    </style>
 </head>
 <body>
-
-<p>The HTML head element contains meta data.[EMAIL]</p>
-<p>Meta data is data about the HTML document.[MOBILE]</p>
-
+    <div class="email-container">
+        <!-- Header -->
+        <div class="header">
+            <table border="0" cellpadding="0" cellspacing="0">
+                <tr align="center">
+                    <td><a href="[VIEWMESSAGEURL]">Click Here</a> to see the web version</td>
+                    <td width="20">|</td>
+                    <td><a href="[MOBILEURL]">View this message on your mobile</a></td>
+                    <td width="20">|</td>
+                    <td>[FORWARD]</td>
+                    <td width="20">|</td>
+                    <td><a href="[UNSUBSCRIBEURL]">Unsubscribe</a></td>
+                    <td width="20">|</td>
+                    <td><a href="[DNDURL]"><img alt="Dndurl" src="unsub20120101.gif" /></a></td>
+                </tr>
+            </table>
+        </div>
+        <!-- Message Content -->
+        <div class="message">
+            <p>hgahcfcajskdfbjekd m,ad&nbsp;</p>
+            <p>[FIRSTNAME]</p>
+        </div>
+    </div>
 </body>
 </html>
